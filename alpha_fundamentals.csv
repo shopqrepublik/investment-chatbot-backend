@@ -1,0 +1,181 @@
+ticker,company,sector,sub_industry,year,metric,value
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2024,revenue,391035000000.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2024,net_income,93736000000.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2024,eps,0.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2024,pe_ratio,39.01
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2024,roe,1.498
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2024,roic,
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2023,revenue,383285000000.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2023,net_income,96995000000.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2023,eps,0.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2023,pe_ratio,39.01
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2023,roe,1.498
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2023,roic,
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2022,revenue,394328000000.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2022,net_income,99803000000.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2022,eps,0.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2022,pe_ratio,39.01
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2022,roe,1.498
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2022,roic,
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2021,revenue,365817000000.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2021,net_income,94680000000.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2021,eps,0.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2021,pe_ratio,39.01
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2021,roe,1.498
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2021,roic,
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2020,revenue,274515000000.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2020,net_income,57411000000.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2020,eps,0.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2020,pe_ratio,39.01
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2020,roe,1.498
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2020,roic,
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2019,revenue,260174000000.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2019,net_income,55256000000.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2019,eps,0.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2019,pe_ratio,39.01
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2019,roe,1.498
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2019,roic,
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2018,revenue,265595000000.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2018,net_income,59531000000.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2018,eps,0.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2018,pe_ratio,39.01
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2018,roe,1.498
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2018,roic,
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2017,revenue,229234000000.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2017,net_income,48351000000.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2017,eps,0.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2017,pe_ratio,39.01
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2017,roe,1.498
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2017,roic,
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2016,revenue,215639000000.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2016,net_income,45687000000.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2016,eps,0.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2016,pe_ratio,39.01
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2016,roe,1.498
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2016,roic,
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2015,revenue,233715000000.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2015,net_income,53394000000.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2015,eps,0.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2015,pe_ratio,39.01
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2015,roe,1.498
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",2015,roic,
+MSFT,Microsoft,Information Technology,Systems Software,2025,revenue,281724000000.0
+MSFT,Microsoft,Information Technology,Systems Software,2025,net_income,101832000000.0
+MSFT,Microsoft,Information Technology,Systems Software,2025,eps,0.0
+MSFT,Microsoft,Information Technology,Systems Software,2025,pe_ratio,38.75
+MSFT,Microsoft,Information Technology,Systems Software,2025,roe,0.333
+MSFT,Microsoft,Information Technology,Systems Software,2025,roic,
+MSFT,Microsoft,Information Technology,Systems Software,2024,revenue,245122000000.0
+MSFT,Microsoft,Information Technology,Systems Software,2024,net_income,88136000000.0
+MSFT,Microsoft,Information Technology,Systems Software,2024,eps,0.0
+MSFT,Microsoft,Information Technology,Systems Software,2024,pe_ratio,38.75
+MSFT,Microsoft,Information Technology,Systems Software,2024,roe,0.333
+MSFT,Microsoft,Information Technology,Systems Software,2024,roic,
+MSFT,Microsoft,Information Technology,Systems Software,2023,revenue,211915000000.0
+MSFT,Microsoft,Information Technology,Systems Software,2023,net_income,72361000000.0
+MSFT,Microsoft,Information Technology,Systems Software,2023,eps,0.0
+MSFT,Microsoft,Information Technology,Systems Software,2023,pe_ratio,38.75
+MSFT,Microsoft,Information Technology,Systems Software,2023,roe,0.333
+MSFT,Microsoft,Information Technology,Systems Software,2023,roic,
+MSFT,Microsoft,Information Technology,Systems Software,2022,revenue,198270000000.0
+MSFT,Microsoft,Information Technology,Systems Software,2022,net_income,72738000000.0
+MSFT,Microsoft,Information Technology,Systems Software,2022,eps,0.0
+MSFT,Microsoft,Information Technology,Systems Software,2022,pe_ratio,38.75
+MSFT,Microsoft,Information Technology,Systems Software,2022,roe,0.333
+MSFT,Microsoft,Information Technology,Systems Software,2022,roic,
+MSFT,Microsoft,Information Technology,Systems Software,2021,revenue,168088000000.0
+MSFT,Microsoft,Information Technology,Systems Software,2021,net_income,61271000000.0
+MSFT,Microsoft,Information Technology,Systems Software,2021,eps,0.0
+MSFT,Microsoft,Information Technology,Systems Software,2021,pe_ratio,38.75
+MSFT,Microsoft,Information Technology,Systems Software,2021,roe,0.333
+MSFT,Microsoft,Information Technology,Systems Software,2021,roic,
+MSFT,Microsoft,Information Technology,Systems Software,2020,revenue,143015000000.0
+MSFT,Microsoft,Information Technology,Systems Software,2020,net_income,44281000000.0
+MSFT,Microsoft,Information Technology,Systems Software,2020,eps,0.0
+MSFT,Microsoft,Information Technology,Systems Software,2020,pe_ratio,38.75
+MSFT,Microsoft,Information Technology,Systems Software,2020,roe,0.333
+MSFT,Microsoft,Information Technology,Systems Software,2020,roic,
+MSFT,Microsoft,Information Technology,Systems Software,2019,revenue,125843000000.0
+MSFT,Microsoft,Information Technology,Systems Software,2019,net_income,39240000000.0
+MSFT,Microsoft,Information Technology,Systems Software,2019,eps,0.0
+MSFT,Microsoft,Information Technology,Systems Software,2019,pe_ratio,38.75
+MSFT,Microsoft,Information Technology,Systems Software,2019,roe,0.333
+MSFT,Microsoft,Information Technology,Systems Software,2019,roic,
+MSFT,Microsoft,Information Technology,Systems Software,2018,revenue,110360000000.0
+MSFT,Microsoft,Information Technology,Systems Software,2018,net_income,16571000000.0
+MSFT,Microsoft,Information Technology,Systems Software,2018,eps,0.0
+MSFT,Microsoft,Information Technology,Systems Software,2018,pe_ratio,38.75
+MSFT,Microsoft,Information Technology,Systems Software,2018,roe,0.333
+MSFT,Microsoft,Information Technology,Systems Software,2018,roic,
+MSFT,Microsoft,Information Technology,Systems Software,2017,revenue,96571000000.0
+MSFT,Microsoft,Information Technology,Systems Software,2017,net_income,25489000000.0
+MSFT,Microsoft,Information Technology,Systems Software,2017,eps,0.0
+MSFT,Microsoft,Information Technology,Systems Software,2017,pe_ratio,38.75
+MSFT,Microsoft,Information Technology,Systems Software,2017,roe,0.333
+MSFT,Microsoft,Information Technology,Systems Software,2017,roic,
+MSFT,Microsoft,Information Technology,Systems Software,2016,revenue,91154000000.0
+MSFT,Microsoft,Information Technology,Systems Software,2016,net_income,20539000000.0
+MSFT,Microsoft,Information Technology,Systems Software,2016,eps,0.0
+MSFT,Microsoft,Information Technology,Systems Software,2016,pe_ratio,38.75
+MSFT,Microsoft,Information Technology,Systems Software,2016,roe,0.333
+MSFT,Microsoft,Information Technology,Systems Software,2016,roic,
+NVDA,Nvidia,Information Technology,Semiconductors,2025,revenue,130497000000.0
+NVDA,Nvidia,Information Technology,Semiconductors,2025,net_income,72880000000.0
+NVDA,Nvidia,Information Technology,Semiconductors,2025,eps,0.0
+NVDA,Nvidia,Information Technology,Semiconductors,2025,pe_ratio,52.86
+NVDA,Nvidia,Information Technology,Semiconductors,2025,roe,1.094
+NVDA,Nvidia,Information Technology,Semiconductors,2025,roic,
+NVDA,Nvidia,Information Technology,Semiconductors,2024,revenue,60922000000.0
+NVDA,Nvidia,Information Technology,Semiconductors,2024,net_income,29760000000.0
+NVDA,Nvidia,Information Technology,Semiconductors,2024,eps,0.0
+NVDA,Nvidia,Information Technology,Semiconductors,2024,pe_ratio,52.86
+NVDA,Nvidia,Information Technology,Semiconductors,2024,roe,1.094
+NVDA,Nvidia,Information Technology,Semiconductors,2024,roic,
+NVDA,Nvidia,Information Technology,Semiconductors,2023,revenue,26974000000.0
+NVDA,Nvidia,Information Technology,Semiconductors,2023,net_income,4368000000.0
+NVDA,Nvidia,Information Technology,Semiconductors,2023,eps,0.0
+NVDA,Nvidia,Information Technology,Semiconductors,2023,pe_ratio,52.86
+NVDA,Nvidia,Information Technology,Semiconductors,2023,roe,1.094
+NVDA,Nvidia,Information Technology,Semiconductors,2023,roic,
+NVDA,Nvidia,Information Technology,Semiconductors,2022,revenue,26914000000.0
+NVDA,Nvidia,Information Technology,Semiconductors,2022,net_income,9752000000.0
+NVDA,Nvidia,Information Technology,Semiconductors,2022,eps,0.0
+NVDA,Nvidia,Information Technology,Semiconductors,2022,pe_ratio,52.86
+NVDA,Nvidia,Information Technology,Semiconductors,2022,roe,1.094
+NVDA,Nvidia,Information Technology,Semiconductors,2022,roic,
+NVDA,Nvidia,Information Technology,Semiconductors,2021,revenue,16675000000.0
+NVDA,Nvidia,Information Technology,Semiconductors,2021,net_income,4332000000.0
+NVDA,Nvidia,Information Technology,Semiconductors,2021,eps,0.0
+NVDA,Nvidia,Information Technology,Semiconductors,2021,pe_ratio,52.86
+NVDA,Nvidia,Information Technology,Semiconductors,2021,roe,1.094
+NVDA,Nvidia,Information Technology,Semiconductors,2021,roic,
+NVDA,Nvidia,Information Technology,Semiconductors,2020,revenue,10918000000.0
+NVDA,Nvidia,Information Technology,Semiconductors,2020,net_income,2796000000.0
+NVDA,Nvidia,Information Technology,Semiconductors,2020,eps,0.0
+NVDA,Nvidia,Information Technology,Semiconductors,2020,pe_ratio,52.86
+NVDA,Nvidia,Information Technology,Semiconductors,2020,roe,1.094
+NVDA,Nvidia,Information Technology,Semiconductors,2020,roic,
+NVDA,Nvidia,Information Technology,Semiconductors,2019,revenue,11716000000.0
+NVDA,Nvidia,Information Technology,Semiconductors,2019,net_income,4141000000.0
+NVDA,Nvidia,Information Technology,Semiconductors,2019,eps,0.0
+NVDA,Nvidia,Information Technology,Semiconductors,2019,pe_ratio,52.86
+NVDA,Nvidia,Information Technology,Semiconductors,2019,roe,1.094
+NVDA,Nvidia,Information Technology,Semiconductors,2019,roic,
+NVDA,Nvidia,Information Technology,Semiconductors,2018,revenue,9714000000.0
+NVDA,Nvidia,Information Technology,Semiconductors,2018,net_income,3047000000.0
+NVDA,Nvidia,Information Technology,Semiconductors,2018,eps,0.0
+NVDA,Nvidia,Information Technology,Semiconductors,2018,pe_ratio,52.86
+NVDA,Nvidia,Information Technology,Semiconductors,2018,roe,1.094
+NVDA,Nvidia,Information Technology,Semiconductors,2018,roic,
+NVDA,Nvidia,Information Technology,Semiconductors,2017,revenue,6910000000.0
+NVDA,Nvidia,Information Technology,Semiconductors,2017,net_income,1666000000.0
+NVDA,Nvidia,Information Technology,Semiconductors,2017,eps,0.0
+NVDA,Nvidia,Information Technology,Semiconductors,2017,pe_ratio,52.86
+NVDA,Nvidia,Information Technology,Semiconductors,2017,roe,1.094
+NVDA,Nvidia,Information Technology,Semiconductors,2017,roic,
+NVDA,Nvidia,Information Technology,Semiconductors,2016,revenue,5010000000.0
+NVDA,Nvidia,Information Technology,Semiconductors,2016,net_income,614000000.0
+NVDA,Nvidia,Information Technology,Semiconductors,2016,eps,0.0
+NVDA,Nvidia,Information Technology,Semiconductors,2016,pe_ratio,52.86
+NVDA,Nvidia,Information Technology,Semiconductors,2016,roe,1.094
+NVDA,Nvidia,Information Technology,Semiconductors,2016,roic,

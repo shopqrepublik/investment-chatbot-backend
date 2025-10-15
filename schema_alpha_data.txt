@@ -1,0 +1,14 @@
+
+=== alpha_data.db ===
+
+-- TABLE fundamentals
+CREATE TABLE "fundamentals" (
+"ticker" TEXT,
+  "company" TEXT,
+  "sector" TEXT,
+  "sub_industry" TEXT,
+  "year" INTEGER,
+  "metric" TEXT,
+  "value" REAL
+)
+-- columns: ticker TEXT, company TEXT, sector TEXT, sub_industry TEXT, year INTEGER, metric TEXT, value REAL

@@ -1,0 +1,94 @@
+# === ОСНОВНЫЕ ЗАВИСИМОСТИ ===
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+websockets>=13.0
+python-multipart==0.0.6
+
+# === БАЗА ДАННЫХ И ORM ===
+sqlalchemy==2.0.23
+alembic==1.13.2
+psycopg2-binary==2.9.10
+asyncpg==0.30.0
+
+# === КЭШИРОВАНИЕ И ОЧЕРЕДИ ===
+redis==5.0.8
+celery==5.4.0
+
+# === DATA SCIENCE & ML ===
+pandas==2.2.3
+numpy==1.26.4
+scipy==1.14.1
+scikit-learn==1.5.2            # ✅ ИСПРАВЛЕНО - совместимая версия
+xgboost==2.1.3
+# prophet==1.1.5                # ❌ Временно отключаем
+statsmodels==0.14.4
+arch==7.2.0
+tsfresh==0.21.0
+
+# === DEEP LEARNING ===
+torch==2.8.0
+torchvision==0.23.0
+torchaudio==2.8.0
+pytorch-lightning==1.9.5
+
+# Временная замена Prophet
+neuralprophet==1.0.0rc9
+
+# === ФИНАНСОВЫЕ ДАННЫЕ ===
+yfinance==0.2.54
+alpaca-py==0.22.0
+requests==2.32.3
+httpx==0.27.2
+aiohttp==3.10.5
+
+# === АЛЬТЕРНАТИВНЫЕ ДАННЫЕ ===
+tweepy==4.14.0
+newsapi-python==0.2.7
+
+# === ВАЛИДАЦИЯ И БЕЗОПАСНОСТЬ ===
+pydantic==2.8.2
+pydantic-extra-types==2.7.0
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+bcrypt==4.2.0
+python-decouple==3.8
+slowapi==0.1.9
+python-box==7.1.1
+
+# === УТИЛИТЫ ===
+python-dotenv==1.0.1
+python-dateutil==2.9.0.post0
+pytz==2025.2
+tzdata==2025.2
+structlog==24.1.0
+loguru==0.7.2
+orjson==3.10.10
+
+# === MLOps & МОНИТОРИНГ ===
+mlflow==2.16.2
+wandb==0.18.5
+evidently==0.5.1
+alibi-detect==0.12.0
+
+# === ВИЗУАЛИЗАЦИЯ ===
+matplotlib==3.9.2
+seaborn==0.13.2
+plotly==5.24.1
+bokeh==3.5.1
+
+# === ТЕСТИРОВАНИЕ ===
+pytest==8.3.3
+pytest-asyncio==0.24.0
+pytest-cov==7.0.0
+factory-boy==3.3.1
+
+# === OPENAI И AI ===
+openai>=1.47.0
+tiktoken==0.7.0
+
+# === ФРОНТЕНД (опционально) ===
+streamlit==1.39.0
+
+# === ПРОИЗВОДИТЕЛЬНОСТЬ ===
+# numba==0.60.0               # ❌ Временно отключаем
+bottleneck==1.4.0

@@ -1,0 +1,10 @@
+Requirement already satisfied: websockets in d:\investment-chatbot\venv\lib\site-packages (10.4)
+Collecting websockets
+  Using cached websockets-15.0.1-cp313-cp313-win_amd64.whl.metadata (7.0 kB)
+Using cached websockets-15.0.1-cp313-cp313-win_amd64.whl (176 kB)
+Installing collected packages: websockets
+  Attempting uninstall: websockets
+    Found existing installation: websockets 10.4
+    Uninstalling websockets-10.4:
+      Successfully uninstalled websockets-10.4
+Successfully installed websockets-15.0.1

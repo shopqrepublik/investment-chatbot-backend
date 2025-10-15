@@ -1,0 +1,69 @@
+
+=== investment_bot.db ===
+
+-- TABLE portfolio_assets
+CREATE TABLE portfolio_assets (
+	id INTEGER NOT NULL, 
+	portfolio_id INTEGER NOT NULL, 
+	ticker VARCHAR(20) NOT NULL, 
+	asset_type VARCHAR(20), 
+	weight NUMERIC(5, 4), 
+	target_price NUMERIC(10, 4), 
+	horizon VARCHAR(10), 
+	PRIMARY KEY (id)
+)
+-- columns: id INTEGER, portfolio_id INTEGER, ticker VARCHAR(20), asset_type VARCHAR(20), weight NUMERIC(5, 4), target_price NUMERIC(10, 4), horizon VARCHAR(10)
+
+-- TABLE portfolios
+CREATE TABLE portfolios (
+	id INTEGER NOT NULL, 
+	user_id INTEGER NOT NULL, 
+	profile_id INTEGER NOT NULL, 
+	name VARCHAR(255), 
+	created_at DATETIME, 
+	is_active BOOLEAN, 
+	PRIMARY KEY (id)
+)
+-- columns: id INTEGER, user_id INTEGER, profile_id INTEGER, name VARCHAR(255), created_at DATETIME, is_active BOOLEAN
+
+-- TABLE prices
+CREATE TABLE prices (
+	id INTEGER NOT NULL, 
+	ticker VARCHAR(50) NOT NULL, 
+	date DATE NOT NULL, 
+	open NUMERIC(10, 4), 
+	high NUMERIC(10, 4), 
+	low NUMERIC(10, 4), 
+	close NUMERIC(10, 4), 
+	adj_close NUMERIC(10, 4), 
+	volume BIGINT, 
+	PRIMARY KEY (id)
+)
+-- columns: id INTEGER, ticker VARCHAR(50), date DATE, open NUMERIC(10, 4), high NUMERIC(10, 4), low NUMERIC(10, 4), close NUMERIC(10, 4), adj_close NUMERIC(10, 4), volume BIGINT
+
+-- TABLE user_profiles
+CREATE TABLE user_profiles (
+	id INTEGER NOT NULL, 
+	user_id INTEGER NOT NULL, 
+	investment_horizon VARCHAR(10), 
+	risk_tolerance VARCHAR(10), 
+	preferred_markets TEXT, 
+	investment_priority VARCHAR(20), 
+	investment_amount VARCHAR(20), 
+	diversification_preference VARCHAR(20), 
+	created_at DATETIME, 
+	PRIMARY KEY (id)
+)
+-- columns: id INTEGER, user_id INTEGER, investment_horizon VARCHAR(10), risk_tolerance VARCHAR(10), preferred_markets TEXT, investment_priority VARCHAR(20), investment_amount VARCHAR(20), diversification_preference VARCHAR(20), created_at DATETIME
+
+-- TABLE users
+CREATE TABLE users (
+	id INTEGER NOT NULL, 
+	email VARCHAR(255) NOT NULL, 
+	password_hash VARCHAR(255) NOT NULL, 
+	created_at DATETIME, 
+	last_login DATETIME, 
+	is_active BOOLEAN, 
+	PRIMARY KEY (id)
+)
+-- columns: id INTEGER, email VARCHAR(255), password_hash VARCHAR(255), created_at DATETIME, last_login DATETIME, is_active BOOLEAN

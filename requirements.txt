@@ -91,4 +91,10 @@ streamlit==1.39.0
 
 # === ПРОИЗВОДИТЕЛЬНОСТЬ ===
 # numba==0.60.0               # ❌ Временно отключаем
+
 bottleneck==1.4.0
+
+--only-binary=:all:
+numpy==1.26.4
+scipy==1.14.1
+torch==2.8.0
